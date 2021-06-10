@@ -18,6 +18,7 @@ eureka:
 logging:
   config: classpath:logback-spring.xml
 
+---
 # 配置 test 环境
 spring:
  profiles: test
