@@ -25,6 +25,10 @@ server:
  servlet:
   context-path: /       # 项目访问路径
 
+# 产品图片存放地址
+image:
+  localhost: F:/Work/imgHost/
+
 eureka:
   client:
     service-url:
